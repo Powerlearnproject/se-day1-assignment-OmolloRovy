@@ -61,3 +61,6 @@ These testing types are crucial for ensuring software quality and reliability.
 Prompt engineering is crafting inputs to elicit desired AI responses, crucial for effective interaction with AI models.
 
 **Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.**
+* **Vague:** "Tell me about animals."
+* **Improved:** "Describe the dietary habits of African elephants in the Serengeti."
+* The improved prompt is more effective because it is clear, specific, and concise, leading to a more focused and useful response.
